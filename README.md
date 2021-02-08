@@ -2,4 +2,10 @@
 
 For Linruchun
 
-Dependency: PyQt5
+Dependency: Python3 PyQt5
+
+如何运行：
+
+```
+python main.py
+```
